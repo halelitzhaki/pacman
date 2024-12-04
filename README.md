@@ -1,7 +1,9 @@
 
 # Upgraded Pacman
 
-![Screenshot](http://i.imgur.com/GQcmfQY.png)
+<p align="center">  
+  <img src="http://i.imgur.com/GQcmfQY.png" height="500"  />
+</p>
 
 **Upgraded Pacman** is a modern reinterpretation of the classic arcade game, developed using Unity3D and C#.
 This version introduces a unique mechanic: every 5 seconds, Pacman becomes a magnet and attracting half of the remaining pac-dots on the board.
