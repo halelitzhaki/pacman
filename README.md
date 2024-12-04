@@ -51,6 +51,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Special thanks to Volkan Ilbeyli for the original [Pacman clone](https://github.com/vilbeyli/Pacman) and to the Unity community for their support and resources.
 
-## Acknowledgments
-
-This project was developed as part of an academic assignment to practice advanced Unity2D and C#.
+This project was developed and upgraded as part of an academic assignment to practice advanced Unity2D and C#.
